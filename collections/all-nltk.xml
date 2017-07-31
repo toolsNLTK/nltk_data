@@ -36,6 +36,7 @@
     <item ref="moses_sample"/>
     <item ref="movie_reviews"/>
     <item ref="names"/>
+    <item ref="ndt"/>
     <item ref="nombank.1.0"/>
     <item ref="nps_chat"/>
     <item ref="omw"/>
