@@ -1,0 +1,6 @@
+<package id="ndt" name="Norwegian Dependency Treebank"
+         author="Per Erik Solberg and Arne Skjærholt and Lilja Øvrelid and Kristin Hagen and Janne Bondi Johannessen"
+         license="http://www.nb.no/sbfil/dok/LICENSE_NDT.txt"
+         webpage="http://www.nb.no/sprakbanken/show?serial=sbr-10"
+         unzip="1"
+         />
